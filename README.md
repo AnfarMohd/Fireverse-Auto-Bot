@@ -2,14 +2,6 @@
 
 An automated bot for FireverseAI Music platform. This bot helps automate daily music listening tasks, including liking songs and commenting.
 
-## Register Here
-- https://web3.fireverseai.com/login/?invite=8I83HA&url=https://app.fireverseai.com/user
-
-## 📱 Join Our Community
-
-Join our Telegram channel for updates and support:
-- [Airdrop Insiders ID](https://t.me/AirdropInsiderID)
-
 ## 🌟 Features
 
 - Multi-account support
@@ -30,7 +22,7 @@ Join our Telegram channel for updates and support:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Fireverse-Auto-Bot.git
+git clone https://github.com/AnfarMohd/Fireverse-Auto-Bot.git
 ```
 
 2. Navigate to the project directory:

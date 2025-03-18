@@ -63,11 +63,6 @@ token3
 npm start
 ```
 
-2. If you want to use Auto Generate Wallet + Auto Task use this command :
-```bash
-node auto.js
-```
-
 The bot will automatically:
 - Load your account tokens
 - Initialize connections for each account
